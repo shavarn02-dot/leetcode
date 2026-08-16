@@ -37,7 +37,6 @@ public:
                 int height=heights[index];
 
                 st.pop();
-                //int rightboundary=st.top();
                 
                 int leftboundary=-1;
                 int rightboundary;
