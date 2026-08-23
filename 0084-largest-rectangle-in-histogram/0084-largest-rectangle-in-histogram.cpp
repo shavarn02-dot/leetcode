@@ -5,8 +5,6 @@ public:
         stack<int> st;
         int maxi=0;
         for(int i=n-1;i>=0;i--){
-            
-          
             while(!st.empty() && heights[st.top()]>=heights[i]){
                 int index=st.top();
                 int height=heights[index];
