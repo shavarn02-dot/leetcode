@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/shavarn02-dot/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shavarn02-dot/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shavarn02-dot/leetcode/tree/master/0412-fizz-buzz) |
+| [0520-detect-capital](https://github.com/shavarn02-dot/leetcode/tree/master/0520-detect-capital) |
 | [0680-valid-palindrome-ii](https://github.com/shavarn02-dot/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
