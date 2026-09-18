@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/shavarn02-dot/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shavarn02-dot/leetcode/tree/master/0050-powx-n) |
+| [0412-fizz-buzz](https://github.com/shavarn02-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [1922-count-good-numbers](https://github.com/shavarn02-dot/leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/shavarn02-dot/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shavarn02-dot/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shavarn02-dot/leetcode/tree/master/0402-remove-k-digits) |
+| [0412-fizz-buzz](https://github.com/shavarn02-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [0680-valid-palindrome-ii](https://github.com/shavarn02-dot/leetcode/tree/master/0680-valid-palindrome-ii) |
 ## Hash Table
 |  |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/shavarn02-dot/leetcode/tree/master/0412-fizz-buzz) |
 | [0735-asteroid-collision](https://github.com/shavarn02-dot/leetcode/tree/master/0735-asteroid-collision) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shavarn02-dot/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Range Minimum/Maximum Query
