@@ -18,15 +18,12 @@ public:
                 return false;
             }
         }
-
-        // agar j pehle khatam ho gya to false hoga 
         if (i != name.size())
             return false;
-
-        // agar i pehle khatam ho gya j se to j ke last sare letters same hone chahiye
         while (j < typed.size()) {
-            if (typed[j] != typed[j - 1])
+            if (typed[j] != typed[j - 1]){
                 return false;
+            }
             j++;
         }
 
