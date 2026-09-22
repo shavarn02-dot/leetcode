@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/shavarn02-dot/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0709-to-lower-case](https://github.com/shavarn02-dot/leetcode/tree/master/0709-to-lower-case) |
 | [0925-long-pressed-name](https://github.com/shavarn02-dot/leetcode/tree/master/0925-long-pressed-name) |
+| [1021-remove-outermost-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/shavarn02-dot/leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/shavarn02-dot/leetcode/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/shavarn02-dot/leetcode/tree/master/0901-online-stock-span) |
+| [1021-remove-outermost-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/0020-valid-parentheses) |
+| [1021-remove-outermost-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Union-Find
 |  |
 | ------- |
