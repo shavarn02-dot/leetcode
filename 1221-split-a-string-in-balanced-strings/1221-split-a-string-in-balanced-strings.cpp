@@ -17,10 +17,8 @@ public:
             L=0;
             R=0;
            }
-
-           
         }
+
         return ans;
-        
     }
 };
