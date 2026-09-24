@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/shavarn02-dot/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shavarn02-dot/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shavarn02-dot/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Hash Table
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/shavarn02-dot/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shavarn02-dot/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0496-next-greater-element-i](https://github.com/shavarn02-dot/leetcode/tree/master/0496-next-greater-element-i) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/shavarn02-dot/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
