@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shavarn02-dot/leetcode/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/shavarn02-dot/leetcode/tree/master/0050-powx-n) |
 | [0412-fizz-buzz](https://github.com/shavarn02-dot/leetcode/tree/master/0412-fizz-buzz) |
+| [1903-largest-odd-number-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1922-count-good-numbers](https://github.com/shavarn02-dot/leetcode/tree/master/1922-count-good-numbers) |
 ## Recursion
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/shavarn02-dot/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0680-valid-palindrome-ii](https://github.com/shavarn02-dot/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shavarn02-dot/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1903-largest-odd-number-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shavarn02-dot/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shavarn02-dot/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1903-largest-odd-number-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/1903-largest-odd-number-in-string) |
 ## Hash Table
 |  |
 | ------- |
