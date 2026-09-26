@@ -4,7 +4,7 @@ public:
         int n=words.size();
         string ans;
         for(int i=0;i<n;i++){
-        string word=words[i];
+        const string& word = words[i];
         int m=word.length();
         if(m==1) return word;
         int count=0;
