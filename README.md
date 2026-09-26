@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shavarn02-dot/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shavarn02-dot/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/shavarn02-dot/leetcode/tree/master/1539-kth-missing-positive-number) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shavarn02-dot/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shavarn02-dot/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/shavarn02-dot/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/shavarn02-dot/leetcode/tree/master/2226-maximum-candies-allocated-to-k-children) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/shavarn02-dot/leetcode/tree/master/0925-long-pressed-name) |
 | [1021-remove-outermost-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/shavarn02-dot/leetcode/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/shavarn02-dot/leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shavarn02-dot/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shavarn02-dot/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
