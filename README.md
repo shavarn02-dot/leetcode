@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/shavarn02-dot/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0410-split-array-largest-sum](https://github.com/shavarn02-dot/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0647-palindromic-substrings](https://github.com/shavarn02-dot/leetcode/tree/master/0647-palindromic-substrings) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/shavarn02-dot/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 ## Greedy
 |  |
 | ------- |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/shavarn02-dot/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/shavarn02-dot/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1903-largest-odd-number-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/shavarn02-dot/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shavarn02-dot/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2264-largest-3-same-digit-number-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/2264-largest-3-same-digit-number-in-string) |
 ## Hash Table
@@ -231,4 +233,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shavarn02-dot/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/shavarn02-dot/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/shavarn02-dot/leetcode/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/shavarn02-dot/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/shavarn02-dot/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
+## Bitmask
+|  |
+| ------- |
+| [2002-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/shavarn02-dot/leetcode/tree/master/2002-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 <!---LeetCode Topics End-->
