@@ -7,7 +7,6 @@ public:
 
         int i = 0;
         int j = 0;
-        int start = 0;
 
         if(m == 0){
             return 0;
