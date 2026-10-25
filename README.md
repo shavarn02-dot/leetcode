@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shavarn02-dot/leetcode/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/shavarn02-dot/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/shavarn02-dot/leetcode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/shavarn02-dot/leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/shavarn02-dot/leetcode/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/shavarn02-dot/leetcode/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/shavarn02-dot/leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/shavarn02-dot/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/shavarn02-dot/leetcode/tree/master/0148-sort-list) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shavarn02-dot/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/shavarn02-dot/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/shavarn02-dot/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shavarn02-dot/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/shavarn02-dot/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shavarn02-dot/leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/shavarn02-dot/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shavarn02-dot/leetcode/tree/master/0402-remove-k-digits) |
@@ -171,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/shavarn02-dot/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/shavarn02-dot/leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/shavarn02-dot/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shavarn02-dot/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shavarn02-dot/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
