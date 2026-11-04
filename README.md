@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/shavarn02-dot/leetcode/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/shavarn02-dot/leetcode/tree/master/0148-sort-list) |
+| [0242-valid-anagram](https://github.com/shavarn02-dot/leetcode/tree/master/0242-valid-anagram) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/shavarn02-dot/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/shavarn02-dot/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/shavarn02-dot/leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/shavarn02-dot/leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/shavarn02-dot/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/shavarn02-dot/leetcode/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/shavarn02-dot/leetcode/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/shavarn02-dot/leetcode/tree/master/0412-fizz-buzz) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/shavarn02-dot/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/shavarn02-dot/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/shavarn02-dot/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/shavarn02-dot/leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/shavarn02-dot/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/shavarn02-dot/leetcode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/shavarn02-dot/leetcode/tree/master/0496-next-greater-element-i) |
